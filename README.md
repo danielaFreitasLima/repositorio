@@ -1,4 +1,4 @@
-# repositorio1 do curso Github
+# Repositorio do curso Github
  Primeiro repositorio visionado
  
  Repositório criado durante a aula.
